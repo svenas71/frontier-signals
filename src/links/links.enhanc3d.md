@@ -6,3 +6,6 @@ type: link
 external_url: https://enhanc3dgenomics.com/
 summary: Clinical genomics will need 3D context. Early, but inevitable.
 ---
+
+
+See also [my post](/posts/costly-assumptions).
