@@ -1,0 +1,17 @@
+{% extends "base.njk" %}
+{% block content %}
+<div style="border:6px solid #f0b; padding:16px; margin:24px 0; font-weight:700">
+  USING DEBUG LAYOUT
+</div>
+
+<article style="max-width:60ch; margin:0 auto; padding:24px">
+  <h1 style="font-size:48px; line-height:1.2; margin:0 0 16px 0"> {{ title }} </h1>
+  {% if date %}
+    <p style="color:#6b7280; margin:0 0 24px 0">{{ date | readableDate }}</p>
+  {% endif %}
+
+  <div style="text-align:justify; line-height:1.65">
+    {{ content | safe }}
+  </div>
+</article>
+{% endblock %}

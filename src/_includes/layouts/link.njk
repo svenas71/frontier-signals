@@ -1,0 +1,13 @@
+{% extends "base.njk" %}
+{% block content %}
+<article class="prose prose-neutral dark:prose-invert">
+  <h2 class="!mb-1">
+    <a href="{{ external_url }}" rel="noopener nofollow" class="no-underline hover:underline">
+      {{ title }} ↗
+    </a>
+  </h2>
+  <p class="text-sm opacity-70">{{ date | readableDate }}</p>
+  {% if summary %}<p>{{ summary }}</p>{% endif %}
+  {{ content | safe }}
+</article>
+{% endblock %}

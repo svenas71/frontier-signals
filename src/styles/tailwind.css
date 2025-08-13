@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Big headline for post title */
+.prose h1 {
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-bottom: 0.6em;
+}
+
+/* Justified paragraphs */
+.prose p {
+  text-align: justify;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+/* Remove underline from homepage lists, keep hover underline */
+.homepage-links a {
+  text-decoration: none;
+}
+.homepage-links a:hover {
+  text-decoration: underline;
+}
+
+/* Clean links*/
+.link-clean a { text-decoration: none; }
+.link-clean a:hover { text-decoration: underline; }
+
+
+/* Bigger H1 and comfortable paragraph spacing everywhere the prose wrapper is used */
+.prose h1 { font-size: 2.5rem; line-height: 1.2; font-weight: 800; margin-bottom: 0.6em; }
+.prose p  { margin-top: 0.5em; margin-bottom: 0.5em; }

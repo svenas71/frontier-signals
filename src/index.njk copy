@@ -1,0 +1,45 @@
+---
+layout: base.njk
+title: Frontier Signals
+---
+
+<p class="text-sm opacity-60">
+  Posts: {{ collections.posts | length }} Links: {{ collections.links | length }}
+  <br></br>
+</p>
+
+
+<section class="space-y-12">
+  <div class="prose prose-neutral dark:prose-invert">
+    <h1 class="!mb-3">Frontier Signals</h1>
+    <p class="lead text-xl">Calm analysis at the edge of life sciences, data, and venture. <br>Essays + linked commentary by Sven Sewitz.</p>
+  </div>
+  
+
+
+<h2 class="text-sm uppercase tracking-wide opacity-70 mb-3">Latest Essays</h2>
+<ul class="space-y-3">
+{% for post in collections.posts %}
+  <li>
+    <a href="{{ post.url }}" class="block underline">
+      {{ post.data.title }} — <span class="text-sm opacity-70">{{ post.date | readableDate }}</span>
+    </a>
+  </li>
+{% endfor %}
+</ul>
+
+<h2 class="text-sm uppercase tracking-wide opacity-70 mt-8 mb-3">Latest Linked</h2>
+<ul class="space-y-3">
+{% for item in collections.links %}
+  <li>
+    <a href="{{ item.data.external_url }}" rel="noopener nofollow" class="underline">
+      {{ item.data.title }} ↗
+    </a>
+    {% if item.data.summary %}
+      <div class="text-sm opacity-70">{{ item.data.summary }}</div>
+    {% endif %}
+  </li>
+{% endfor %}
+</ul>
+</div>
+</section>

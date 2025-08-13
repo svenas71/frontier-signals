@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* No underline on homepage lists */
+@layer components {
+  .link-clean a { @apply no-underline hover:underline; }
+}
+
+/* Justify paragraphs in posts + spacing */
+.prose.post-content :where(p):not(:where(.not-prose *)) {
+  text-align: justify;
+  margin-top: 6pt;
+  margin-bottom: 6pt;
+}
+
+/* First paragraph under title: no top margin */
+.prose.post-content :where(p:first-of-type):not(:where(.not-prose *)) {
+  margin-top: 0;
+}
+
+/* Bigger H1 in posts */
+.prose.post-content :where(h1):not(:where(.not-prose *)) {
+  font-size: 2.5rem;   /* ~40px */
+  line-height: 1.2;
+  font-weight: 800;
+  margin-bottom: 0.6em;
+}

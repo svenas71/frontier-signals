@@ -1,0 +1,16 @@
+---
+layout: base.njk
+title: Linked
+---
+<h1 class="text-2xl font-semibold mb-6">Linked</h1>
+<ul class="space-y-6">
+  {% for item in collections.links | reverse %}
+    <li>
+      <a class="font-medium" href="{{ item.data.external_url }}" rel="noopener nofollow">
+        {{ item.data.title }} ↗
+      </a>
+      <div class="text-sm opacity-70">{{ item.date | readableDate }}</div>
+      {% if item.data.summary %}<div class="text-sm opacity-80">{{ item.data.summary }}</div>{% endif %}
+    </li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,10 @@
+{% extends "base.njk" %}
+{% block content %}
+<article class="prose prose-neutral dark:prose-invert post-content">
+  <h1>{{ title }}</h1>
+  {% if date %}
+    <p class="text-sm opacity-70">{{ date | readableDate }}</p>
+  {% endif %}
+  {{ content | safe }}
+</article>
+{% endblock %}
