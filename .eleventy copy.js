@@ -9,24 +9,15 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "src/images": "images" });
 
   // collections
-  eleventyConfig.addCollection("posts", (c) =>
-    c.getFilteredByGlob("./src/posts/*.md").sort((a, b) => {
-      // Pinned posts first
-      const aPinned = !!a.data.pinned;
-      const bPinned = !!b.data.pinned;
-      if (aPinned && !bPinned) return -1;
-      if (!aPinned && bPinned) return 1;
-      // If both pinned (or both not), newest first by date
-      return b.date - a.date;
-    })
+  eleventyConfig.addCollection("posts", c =>
+    c.getFilteredByGlob("./src/posts/*.md").sort((a,b)=>b.date-a.date)
   );
-
-  eleventyConfig.addCollection("links", (c) =>
-    c.getFilteredByGlob("./src/links/*.md").sort((a, b) => b.date - a.date)
+  eleventyConfig.addCollection("links", c =>
+    c.getFilteredByGlob("./src/links/*.md").sort((a,b)=>b.date-a.date)
   );
 
   // filters + shortcodes
-  eleventyConfig.addFilter("readableDate", (d) =>
+  eleventyConfig.addFilter("readableDate", d =>
     DateTime.fromJSDate(d, { zone: "utc" }).toFormat("LLLL d, yyyy")
   );
   eleventyConfig.addShortcode("year", () => new Date().getFullYear());
