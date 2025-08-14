@@ -13,3 +13,4 @@ tags: [frontier, adoption]
 ## Clarity doesn't come before action. It comes from action
 
 
+![Clarity](/images/Clarity.PNG)
