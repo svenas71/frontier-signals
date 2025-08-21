@@ -8,7 +8,7 @@ tags: [frontier, adoption]
 
 # Costly Assumptions
 
-In my [previous post](/posts/confessions-of-a-molecular-biologist/) post I spoke about how much of science was based on a molecular, particulate view of life — molecules that behave as molecules should — and how this subject was taught to several generations of molecular biologists for the past decades. And about how these assumptions are still dominant, and color the views and perceptions of the most lucrative and expansive life science industry there is today: biopharma.
+In my [previous post](/posts/confessions-of-a-molecular-biologist/) I spoke about how much of science was based on a molecular, particulate view of life — molecules that behave as molecules should — and how this subject was taught to several generations of molecular biologists for the past decades. And about how these assumptions are still dominant, and color the views and perceptions of the most lucrative and expansive life science industry there is today: biopharma.
 
 Before I continue to point out where big pharma is operating on assumptions that we now know to no longer hold true, let me again take a short step back and extend some form of sympathy and understanding to this industry.
 
