@@ -32,14 +32,14 @@ Life moves on and new needs emerge. As such - I want to outline a more smooth an
 
 What we have, is a classical tragedy in three acts:
 
-### Part I: The Malaise
+### Part I: The Diagnosis
 
 - Symptom: Clients pay for clarity, but get buzzword fog.
 - Symptom: Consultants rehearse theatre, clients play along.
 - Symptom: Knowledge is recycled, nuance stripped, respect goes missing.
 
 
-### Part II: The Diagnosis
+### Part II: The Malaise
 
 - Addiction - The industry is addicted to its own rituals.
 - Stasis - Incentives hinder progress: billable hours are more important than lasting change.
