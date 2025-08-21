@@ -26,7 +26,7 @@ Maybe I am missing something here. Or maybe I have been in too many consultancy 
 
 To me - who values originality more than performance, who was taught to be critical and discrimate substance from packaging, to seek insight rather than confirmation - I find consulting insulting. 
 
-I do see the need. Or at least the generated need Consultancies have created. Much like Cheese Stuffed Crust Pizza. Born out of the need to find more place to put a highly processed dairy product in. 
+I do see the need. Or at least the generated need Consultancies have created. Much like Cheese Stuffed Crust Pizza. Born out of the need to find more places to put a highly processed dairy product in. 
 
 Life moves on and new needs emerge. As such - I want to outline a more smooth and effortless solution to the need to hire a consultancy firm that in the end tells you what you already know - and charges an arm, a leg, and two kidneys for their services. 
 
