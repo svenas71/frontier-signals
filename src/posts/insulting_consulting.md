@@ -16,7 +16,7 @@ Over several years of work with large clients, I thought I'd gotten the hang of 
 
 And that is what we did - delivered actionable insights, curtesy of our - joint - expertise. Why wouldn't everybody be happy?
 
-Now - in the next phase(tm) of my career - why not double down and join one of the big houses and offer my services to them first ? Accenture, PwC, Gartner, BCG, EY. 
+Now - in the next phase™ of my career - why not double down and join one of the big houses and offer my services to them first ? Accenture, PwC, Gartner, BCG, EY. 
 
 EY declined my application - kindly so - within two days. Hats off to that sort of efficiency. BCG took a bit longer, IQVIA never bothered to reply at all. To either of my applications. Fair - they are busy.
 
