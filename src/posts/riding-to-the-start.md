@@ -22,6 +22,7 @@ That left the cycle route. Joe had chosen the following: Bregenz to Chur on day 
 
 As it turned out - we were fine. There had been moments of awe and doubt. Looking up the hairpin turns just before Versam, knowing that there was no turning back - or worse, turning back just meant riding *up* the descent we’d just came down from - did give me a moment where I had to catch my breath - not from exhaustion but from a keen sense of ‘oh shit’. 
 
+*The Hairpins in Versam*
 ![Versam](/images/Versam1.jpg)
 ![Versam Map](/images/Versam2.png)
 
@@ -29,19 +30,20 @@ Something else new for me was careening down roads at speeds upwards of 70km/h, 
 
 All in all though, it was what one would call ‘an epic ride’. The views into Olivone were majestic, perfect blue skies framed the lush green in the valley. These views will stay with me for a long time. 
 
+*View into Olivone*
 ![Olivone](/images/Olivone.jpg)
 
-On the flats our pace was very evenly matched. We took turns at the front, Joe knew the route off by heart and I had my trusted little Garmin to lead the way. On the climbs though, and to my surprise, I found myself, a fraction stronger than Joe. Not by much, and it really didn’t matter at all - we knew we’d be riding together no matter what - but just enough for me to notice. I would never have let him feel it, purposely drop my buddy. This ride had been his idea, he had organised it, his whole family was there, riding ahead in the car, my rucksack in their trunk. Of course we’d stay together. On the last hairpin though, just before the pass at 1920 m on the Lucomagno, I noticed him loose my wheel. It was steep. Legs were burning and giving way to the accumulated effort of riding strong for three days. I waited up, enough for him to catch me again. We rode on, Joe gave me a nod. 
+On the flats our pace was very evenly matched. We took turns at the front, Joe knew the route off by heart and I had my trusted little Garmin to lead the way. On the climbs though, and to my surprise, I found myself a fraction stronger than Joe. Not by much, and it really didn’t matter at all - we knew we’d be riding together no matter what - but just enough for me to notice. I would never have let him feel it, purposely drop my buddy. This ride had been his idea, he had organised it, his whole family was there, riding in the car ahead, my rucksack in their trunk. Of course we’d stay together. On the last hairpin though, just before the pass at 1920 m on the Lucomagno, I noticed him loose my wheel. It was steep. Legs were burning and giving way to the accumulated fatigue of riding strong for three days. I waited up, enough for him to catch me again. We rode on, Joe gave me a nod. 
 
-This was such a delicate thing, because this three-day ride, across the alps no less -  was the first ride we had ever done together. Looking back, the decision to attempt crossing the Alps as our maiden shared ride together seems like madness. But then, as well as now, I trusted Joe. Somehow, I knew, we would find our rhythm.
+This was such a delicate thing, because this three-day ride, across the alps no less -  was the first ride we had ever done together. Looking back, the decision to attempt crossing the Alps as our maiden shared ride seems like madness. But then, as well as now, I trusted Joe. Somehow, I knew, we would find our rhythm.
 
-That trust proved right. And thinking back now, it still catches me off guard — how much that simple, untested faith in each other meant. Enough that, even years later, recalling it brings me a string of tears.
+That trust proved right. Thinking back, it still catches me off guard — how much that simple, untested faith in each other meant. Even now, years later, that realisation brings me a string of tears.
 
-Back then, it wasn’t just the new surroundings. It also brought me new ways of experiencing myself: feeling your legs ‘just ride’ even though your mind was reaching its’ limits. Usually, it is the other way around, my spirit is keen, but at some point my legs invariably call it a day. Now, on day three, it was the opposite: my mind was saying - ok, these were good days, time to check into a hotel - while my legs were telling me - let’s keep going, I got this, just ride buddy! 
+Back then, we were much more in the here and now. It wasn’t just the new surroundings. It also brought me new ways of experiencing myself: feeling your legs ‘just ride’ even though your mind was reaching its’ limits. Usually, it is the other way around, my spirit is keen, but at some point my legs invariably call it a day. Now, on day three, it was the opposite: my mind was saying - ok, these were good days, time to check in to a hotel - while my legs were telling me - let’s keep going, I got this buddy, just ride! 
 
 And so we did, to my astonishment chasing down fellow cyclists heading for Bellinzona, Joe and me still somehow managing to keep the tempo high. 
 
-We arrived in Brissago, empty but elated. We had done it. We set out at 427m above sea level in Bregenz, ridden up to 1920m to the Ospizio del Lucomagno, and back down to an elevation of about 200m in Switzerland, on the south side of the Alps. We had crossed the Alps. This remains my biggest cycling achievement - and on the rare occasion that I mention it to others, it elicits appropriate oohs and aahs. 
+We arrived in Brissago, empty but elated. We had done it. We had set out at 427m above sea level in Bregenz, ridden up to 1920m to the Ospizio del Lucomagno, and back down to an elevation of about 200m in Switzerland, on the south side of the mountains. We had crossed the Alps. This remains my single biggest cycling achievement - and on the rare occasion that I mention it to others, it elicits the appropriate oohs and aahs. 
 
 Fast forward a few more years, and another announcement from Joe. This time, I knew he meant it. “Sven,” he said, “why don’t we ride the Spreewald Marathon next April?” 
 
