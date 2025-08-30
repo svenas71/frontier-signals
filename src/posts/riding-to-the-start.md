@@ -44,6 +44,8 @@ And so we did, to my astonishment chasing down fellow cyclists heading for Belli
 
 We arrived in Brissago, empty but elated. We had done it. We had set out at 427m above sea level in Bregenz, ridden up to 1920m to the Ospizio del Lucomagno, and back down to an elevation of about 200m in Switzerland, on the south side of the mountains. We had crossed the Alps. This remains my single biggest cycling achievement - and on the rare occasion that I mention it to others, it elicits the appropriate oohs and aahs. 
 
+---
+
 Fast forward a few more years, and another announcement from Joe. This time, I knew he meant it. “Sven,” he said, “why don’t we ride the Spreewald Marathon next April?” 
 
 The ride was a common fixture in my new club. Thomas had ridden it the previous year - at the start of April - at 4°C, in the rain. It hadn’t been pleasant, he had said, which is cyclist speak for borderline traumatising. I had mentioned this to Joe a while ago - and it had stuck with him. Why not do it ourselves, was his response. 
@@ -56,21 +58,21 @@ We set ourselves the goal to be ‘race ready’ by mit April.
 
 This time, logistics were comparatively a breeze: The start was an hour’s drive from my home. No flights, no alpine transfers. The Alps tour had been a different matter: flight from Stansted to Zürich, train to Bregenz, train from Locarno back to Zürich, rental bike in between — and, as luck or poor planning had it, a flight to New York on the following weekend.
 
-Now, Joe carried the biggest travel burden. He drove the seven hours to my house on the Friday before the event on Saturday, with a short detour to Lübbenau to pick up our starting kits. That spared us the queue the next morning — for bike numbers, safety pins, roadbook, all the little paraphernalia that lend these events a sense of ceremony.
+Now, Joe carried the biggest travel burden. He drove the seven hours to my house on the Friday before the event on Saturday, with a short detour to Lübbenau to pick up our starting kits. That spared us the queue the next morning — for bike numbers, safety pins, the roadbook, all the little paraphernalia that lend these events a sense of ceremony.
 
 Still, a 7:30 a.m. start meant leaving the house at five. We reached the town at seven, got the bikes ready, and rolled out fifteen minutes early, quickly finding a rhythm and a fast group to follow. It was colder than expected, and we relied on our efforts to stay warm.
 
 What Joe and I had anticipated, and both wanted keenly to avoid, of course happened. Riding 200 km in a single day is a serious effort and requires a good pacing and refuelling strategy to survive. During our preparations, Joe had been cautious — his longest ride had been 130 km. Solid, very solid, but still a full seventy kilometres short of what we would be doing today. I had done my 200s at an easy pace, nine to eleven hours on the road. My very first long ride — 236 km — took me fourteen hours, stops included, to complete. Joe and I had discussed this several times: we would take it easy, no rush, the only goal was to finish.
 
-Once on the road, all those plans evaporated. We were excited to be riding together, the morning was chilly, the Sunday streets were empty. The adventure had begun. Inevitably, we rode too fast. So much for well-laid plans.
+Once on the road, all those plans evaporated. We were excited to be riding together, the morning was chilly, the Saturday morning streets were empty. The adventure had begun. Inevitably, we rode too fast. So much for well-laid plans.
 
-The devious thing about endurance events is that mistakes only show themselves much later. Your body has its own view of pacing and dealing with distance, and it doesn’t always match the plan. At 96 km, I glanced at my cycling computer. I saw an average speed far above our target. My body seemed to say: Ninety-six kilometres — that’s a ride, it declared. That’s enough. We’re finished, bye.
+The devious thing about endurance events is that mistakes only show themselves much later. Your body has its own view of pacing and dealing with distance, and it doesn’t always match the plan. At 96 km, I glanced at my cycling computer. I saw an average speed far above our target. My body seemed to say: Ninety-six kilometres — that’s a ride, it declared. That’s enough. We’re finished, goodbye.
 
-My legs were empty. My energy was gone. I slowed to half our previous speed. Another 100 km of this, five or more hours at this crawl. I was done.
+My legs were empty. My energy was gone. I slowed to half our previous speed. Another 100 km of this would mean at least five or more hours at this crawl. I was done.
 
-This time, it was Joe who waited up. He simply rode next to me. I said, “This is going to be a long hundred k.” He said: “Just think about the next five.”
+This time, it was Joe who waited up. He simply rode next to me. I said, “This is going to be a long hundred k.” He replied calmly: “Just think about the next five.”
 
-He was right. I focussed on the next corner, the next 500 metres; I just rode my own pace. Other riders passed us without comment. Soon we reached a village, the farthest point of the route. From here on, every turn meant getting closer to the finish line. 
+He was right. I focussed on the next corner, the next 500 metres; I just rode at my own pace. Other riders passed us without comment. Soon we reached a village, the farthest point of the route. From here on, every turn meant getting closer to the finish line. 
 
 And then, a few minutes later, through some trick of physiology, my legs returned. We took up the pace again and made the forty kilometres to the next feed station in good time. We refuelled with cake, half a banana, and more isotonic mix, then pushed on.
 
