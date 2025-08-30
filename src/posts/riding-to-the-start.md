@@ -88,7 +88,7 @@ Maybe for that reason, there exists a strong sense of camaraderie among cyclists
 
 In short, we look out for each other, in ways that are imperceptible to most people. Pointing out a pothole before you swerve means the person riding behind you has the chance to do the same and won’t risk ruining their cherished rims. Taking a turn at the front means your fellow riders now get the benefit from your slipstream, and can save costly watts over the next few kilometres. You acknowledge other riders with a short wave, and you thank another rider with a simple nod. These are the rules we live by when on the bike. 
 
-As the years pass on you acquire additional responsibilities, not just knowledge about yourself and the experiences of riding epic rides. It turns out, all these rides are just the preamble. Let me explain.
+As the years pass on you acquire additional responsibilities, not just knowledge about yourself and the experiences gained from epic rides. It turns out, all these rides are just the preamble. Let me explain.
 
 As I write this, I am ten days away from another marathon ride. It will be a large circular route around Berlin, 227 km to be exact. There will be 4 “Kontrollstellen” or feed stations along the way. This ride will be without Joe, but with my new club mates and, crucially, three youngsters, on their first 200. As any parent will know - teaching the next generation is an exercise in extreme patience.
 
