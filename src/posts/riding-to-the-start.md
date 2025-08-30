@@ -90,7 +90,7 @@ In short, we look out for each other, in ways that are imperceptible to most peo
 
 As the years pass on you acquire additional responsibilities, not just knowledge about yourself and the experiences gained from epic rides. It turns out, all these rides are just the preamble. Let me explain.
 
-As I write this, I am ten days away from another marathon ride. It will be a large circular route around Berlin, 227 km to be exact. There will be 4 “Kontrollstellen” or feed stations along the way. This ride will be without Joe, but with my new club mates and, crucially, three youngsters, on their first 200. As any parent will know - teaching the next generation is an exercise in extreme patience.
+As I write this, I am fourteen days away from another marathon ride. It will be a large circular route around Berlin, 227 km to be exact. There will be 4 “Kontrollstellen” or feed stations along the way. This ride will be without Joe, but with my new club mates and, crucially, three youngsters, on their first 200. As any parent will know - teaching the next generation is an exercise in extreme patience.
 
 The usual ride of these three has never exceeded 100k. The biggest challenge is always managing your effort, not expending all your energy at the outset. And even then, one has to manage refuelling. We don’t have the reserves to last us through 8 or more hours of solid riding. The feed stations are essential, but 40 to 60km apart. It is fully possible to bonk out between them. Take some gels - is the first line of defence, always have some quick carbs at the ready. Even that has to be managed - and the mental discipline to refuel regularly and early is not yet part of their usual ride routine. Experience is the only teacher.
 
