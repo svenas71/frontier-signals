@@ -1,12 +1,12 @@
 ---
 layout: layouts/post.njk
-title: "Why Chromatin Remodellers Matter"
-date: 2025-08-12
+title: "Why Upstream Matters"
+date: 2025-09-01
 type: post
 tags: [genomics, strategy]
 ---
 
-# Why upstream is important 
+# Why Upstream Mattes 
 
 ### Bioinformatics leads the Way
 
