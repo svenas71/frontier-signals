@@ -96,6 +96,6 @@ The usual ride of these three has never exceeded 100k. The biggest challenge is 
 
 This mindset shift is essential, for without it you are not going to enjoy yourself over such a distance. If you want to instill such a shift in mindset - you run into a secondary issue: youthful exuberance and unwillingness to listen. One has to be subtle.
 
-For me this meant reframing the distance: we will be riding to the start. The start, which is 100km away. Our first task will be getting there. On bike. We should arrive there with enough energy to do ‘a usual club ride’ of 100km. This way, we can’t expend all our energies too early. Pacing built in. In two weeks time I will know if and how this turned out. 
+For me this meant reframing the distance: we will be riding to the start. The start, which is 100km away. Our first task will be getting there. On bike. We should arrive there with enough energy to do ‘a usual club ride’ of 100km. This way, we can’t expend all our energies too early. Pacing built in. In two weeks time I will know if and how this turned out.
 
-I am also just riding to the start.
+ I am also just riding to the start.
