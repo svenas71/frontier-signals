@@ -6,7 +6,7 @@ type: post
 tags: [genomics, strategy]
 ---
 
-# Why Upstream Mattes 
+# Why Upstream Matters 
 
 ### Bioinformatics leads the Way
 
