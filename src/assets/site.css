@@ -1349,6 +1349,10 @@ video {
   --tw-prose-invert-td-borders: #404040;
 }
 
+.visible {
+  visibility: visible;
+}
+
 .sticky {
   position: sticky;
 }
@@ -1412,6 +1416,10 @@ video {
 
 .max-w-3xl {
   max-width: 48rem;
+}
+
+.grow {
+  flex-grow: 1;
 }
 
 .items-center {
