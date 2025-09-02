@@ -31,7 +31,7 @@ I know how important Drosophila is for biology. Morgans work was so influential 
 
 Drosophila was a perfectly sensible and industrious model organism. It was just that I had never worked with the little creatures, and didn't intend to. I had been working with and on bacteria, a bit of cell culture, and most recently yeast. *Saccharomyces cerevisiae*, by it's correct latin name – bakers yeast, also used for brewing beer, hence the name '*cerevisiae*'.
 
-What if - I thought to myself - one could show that this elegant concept of chromatin states was also valid in another organism ? What if I did it for yeast ? 
+What if - I thought to myself - one could show that this elegant concept of chromatin states was also valid in another organism ? What if *I myself* did it for yeast ? 
 
 I researched the literature and spoke to leading bioinformaticians about the feasibility of my idea. I received hesitant nods of approval, which is as much as you can ask for from cautious people who don't readily show enthusiasm, other than for their own ideas. 
 
