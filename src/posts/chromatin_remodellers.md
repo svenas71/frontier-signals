@@ -77,6 +77,8 @@ What ensued next was the normal politics of science. Discoveries are made every 
 
 Years later, I attended a conference in Cambridge in which the star lecture was given by a young professor from Harvard. Her lab was centered around the new and highly important function of an as yet under-investigated class of proteins: they have roles in development, disease and even cancer: Chromatin Remodellers.
 
+This opens up new mechanistic insights into disease, in turn giving the ability to identify new drug targets for intervention. It was a great presentation, one that struck a strong chord with me. Upstream is where it was at. This is where one could change the response of cells to signals, if one chose to. 
+
 I smiled. What I had once seen alone in my home office now had centre stage. Perhaps it was fitting that I had glimpsed it ahead of its time. Upstream always matters.
 
 
