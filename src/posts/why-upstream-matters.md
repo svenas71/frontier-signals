@@ -39,7 +39,7 @@ A few career twists and turns later, in different surroundings, but still in Cam
 
 In the end, after trial, errors, and more of both, the data started to make sense. I remember to this day sitting at home in my office, manually assembling my particular visualisation of the occupancy plots that I had devised, when I started to see a new pattern arise. Something was different here. 
 
-I need to step back and explain another key difference and advantage our experimental data had - and I also need to acknowledge the source of the data - for at that time, as you will remember, I was happy not to have to set foot in a lab. The data came from a previous publication from the lab of Frank Pugh at Penn State University. His lab had done the Herculean work of 200 experiments, in duplicate, at two different temperatures, that we now used for our analysis.
+I need to step back and explain another key difference and advantage our experimental data had - and I also need to acknowledge the source of the data - for at that time, as you will remember, I was happy not to have to set foot in a lab ever again. The data came from a previous publication from the lab of Frank Pugh at Penn State University. His lab had done the Herculean work of 200 experiments, in duplicate, at two different temperatures, that we now used for our analysis.
 
 As a side note - the cost of the consumables for these experiments alone was near prohibitive. A single run out of the 800 shown in the paper, could amount to several hundred dollars in reagents. Add to that the cost of the measurement devices, Affymetrix chips, which were around 500 $ per chip, and you were quickly in the million dollar range for such an experiment.
 
