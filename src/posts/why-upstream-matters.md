@@ -29,7 +29,7 @@ The only downside - and some biologists will crucify me for this - was that the 
 
 I know how important Drosophila is for biology. Morgans work was so influential that geneticists coined a unit of measurement after him - the centimorgan, describing how linked certain genetic features are, how closely or how frequently they are inherited together. In 1995, Christiane Nüsslein-Volhard had won the Nobel prize for *her* work on Drosophila - awarded jointly to her, Edward Lewis and Eric Wieschaus - adding yet another tally to Drosophila science on the medal counter, after Morgan was awarded his Nobel in 1933, and Hermann J. Muller his in 1946. 
 
-Drosophila was a perfectly sensible and industrious model organism. It was just that I had never worked with the little creatures, and didn't intend to. I had been working with and on bacteria, a bit of cell culture, and most recently yeast. *Saccharomyces cerevisiae*, by it's correct latin name – bakers yeast, also used for brewing beer.
+Drosophila was a perfectly sensible and industrious model organism. It was just that I had never worked with the little creatures, and didn't intend to. I had been working with and on bacteria, a bit of cell culture, and most recently yeast. *Saccharomyces cerevisiae*, by it's correct latin name – bakers yeast, also used for brewing beer, hence the name '*cerevisiae*'.
 
 What if - I thought to myself - one could show that this elegant concept of chromatin states was also valid in another organism ? What if I did it for yeast ? 
 
