@@ -33,7 +33,7 @@ Drosophila was a perfectly sensible and industrious model organism. It was just 
 
 What if - I thought to myself - one could show that this elegant concept of chromatin states was also valid in another organism ? What if *I myself* did it for yeast ? 
 
-I researched the literature and spoke to leading bioinformaticians about the feasibility of my idea. I received hesitant nods of approval, which is as much as you can ask for from cautious people who don't readily show enthusiasm, other than for their own ideas. 
+I researched the literature and spoke to leading bioinformaticians about the feasibility of my idea. I received hesitant nods of approval, which is the most you can ask for from cautious people who don't readily show enthusiasm, other than for their own ideas. 
 
 A few career twists and turns later, in different surroundings, but still in Cambridge, we got the code to run. Guillaume Filion, the first author on the seminal Cell paper of 2010 had been kind enough to share with me his version of the code, that worked for the Drosophila data they had. Our data came from a different organism, a different lab, was structured differently and had a different scope. Guillaumes data was derived from 53 different proteins, the data we had access to came from 200 proteins. Drosophila has four chromosomes, the much much tinier organism *S.cerevisiae* has sixteen. We had to account for all these differences, while needing to get to grips with maths that had been developed for telecommunications in the mid to late 60s by Andrew Viterbi. The R package we used still uses that nomenclature. 
 
